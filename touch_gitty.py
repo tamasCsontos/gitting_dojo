@@ -2,6 +2,8 @@
 
 def introduce():
     print('Hello! I\'m gittie!')
+    print('What up?')
+    return False
 
 def add(a,b):
     c = a + b
