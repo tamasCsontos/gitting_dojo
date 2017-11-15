@@ -11,3 +11,6 @@ def add(a,b):
 
 def joke():
     print('How did Jay-Z call his girlfriend before they married?')
+
+def shout()
+    print('SHOUT')
